@@ -1,5 +1,11 @@
 # Hi, I'm Karthikeya Ravirala
 
+<p align="center">
+  <a href="https://aralroca.com">
+    <img width="300" src="https://github.com/KarthikeyaRavirala/First-Line-of-care/blob/main/kerry%20allen.png" alt="logo" />
+  </a>
+</p>
+
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/Karthi7Ravirala" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
@@ -13,6 +19,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
+
 - 👋 Hi, I’m @KarthikeyaRavirala
 - 👀 I’m interested in exploring innovative technologies and contributing to open-source projects.
 - 🌱 I’m currently learning machine learning and artificial intelligence to broaden my skill set.
