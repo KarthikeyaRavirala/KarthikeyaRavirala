@@ -1,13 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 # I'm Karthikeya Ravirala
 
-
-<p align="center">
-  <a href="https://aralroca.com">
-    <img width="300" src="https://github.com/KarthikeyaRavirala/First-Line-of-care/blob/main/kerry%20allen.png" alt="logo" />
-  </a>
-</p>
-
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/Karthi7Ravirala" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
